@@ -1,0 +1,11 @@
+{
+	"products": [
+		{ "id": 1, "name": "Portatil", "price": 1500 },
+		{ "id": 2, "name": "Monitor", "price": 500 },
+		{ "id": 3, "name": "Teclado", "price": 50 },
+		{ "id": 4, "name": "Ratón", "price": 20 },
+		{ "id": 5, "name": "Auriculares", "price": 100 },
+		{ "id": 6, "name": "Teléfono móvil", "price": 1000 },
+		{ "id": 7, "name": "iPad", "price": 800 }
+	]
+}
